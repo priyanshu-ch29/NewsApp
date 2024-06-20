@@ -4,7 +4,9 @@ const Loading = () => {
   return (
     <>
       <div className="flex flex-col justify-center items-center home h-[100vh]">
-        <h1 className="text-black font-semibold ">Loading...</h1>
+        <h1 className="text-black font-bold ">
+          This Article Data is not present in API
+        </h1>
         <p className="text-black font-semibold ">
           Built using ReactJs, TailwindCSS, Shimmer and NewsApi Integration
         </p>
