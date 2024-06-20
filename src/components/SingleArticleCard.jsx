@@ -32,8 +32,8 @@ const SingleArticleCard = ({ data }) => {
           <span className=" font-bold">TITLE: </span>
           {title}
         </h1>
-        <div className=" flex justify-around items-center p-4">
-          <img src={urlToImage} className=" w-[30%] h-[30vh]" />
+        <div className=" flex justify-around items-center p-4 max-md:flex-col">
+          <img src={urlToImage} className=" w-[30%] h-[30vh] max-md:w-full" />
           <div>
             <h1 className="m-4 p-4">
               <span className=" font-bold">PUBLISHED AT: </span>
