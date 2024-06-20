@@ -51,37 +51,37 @@
 
 # Project Structure
 
-newsapp/
-├── node_modules/
-├── public/
-│ ├── index.html
-│ └── ...
-├── src/
-│ ├── assets/
-│ ├── components/
-│ │ ├── ArticleCard.jsx
-│ │ ├── ArticlePage.jsx
-│ │ ├── Header.jsx
-│ │ ├── Loading.jsx
-│ │ ├── Shimmer.jsx
-│ │ ├── SingleArticle.jsx
-│ │ └── SingleArticleCard.jsx
-│ ├── utils/
-│ │ ├── constant.js
-│ │ ├── useArticleList.js
-│ │ └── useArticleApi.js
-│ ├── App.jsx
-│ ├── index.css
-│ ├── main.jsx
-├── .eslintrc.cjs
-├── .gitignore
-├── index.html
-├── package-lock.json
-├── package.json
-├── postcss.config.js
-├── README.md
-├── tailwind.config.js
-├── vite.config.js
+- newsapp/
+- ├── node_modules/
+- ├── public/
+- │ ├── index.html
+- │ └── ...
+- ├── src/
+- │ ├── assets/
+- │ ├── components/
+- │ │ ├── ArticleCard.jsx
+- │ │ ├── ArticlePage.jsx
+- │ │ ├── Header.jsx
+- │ │ ├── Loading.jsx
+- │ │ ├── Shimmer.jsx
+- │ │ ├── SingleArticle.jsx
+- │ │ └── SingleArticleCard.jsx
+- │ ├── utils/
+- │ │ ├── constant.js
+- │ │ ├── useArticleList.js
+- │ │ └── useArticleApi.js
+- │ ├── App.jsx
+- │ ├── index.css
+- │ ├── main.jsx
+- ├── .eslintrc.cjs
+- ├── .gitignore
+- ├── index.html
+- ├── package-lock.json
+- ├── package.json
+- ├── postcss.config.js
+- ├── README.md
+- ├── tailwind.config.js
+- ├── vite.config.js
 
 # Deployment
 
